@@ -25,4 +25,4 @@
 Зашифруйте созданный раздел с помощью LUKS.
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 ![2-3](https://github.com/SG-netology/13-2-Git/blob/main/2-3.png)
-![2-4](https://github.com/SG-netology/13-2-Git/blob/main/2-4.png)
+![2-6](https://github.com/SG-netology/13-2-Git/blob/main/2-6.png)
